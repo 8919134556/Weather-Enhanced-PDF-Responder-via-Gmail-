@@ -1,0 +1,266 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F1db8e14ed-8a66-499f-b5d5-705cfba9b2bd <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F215e06454-38e0-4408-9845-d8cfeedaa9d7 <<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageB /ImageI /ImageC /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1668
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F2 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 100 750 Tm
+(Sample\040Document) Tj
+T*
+ET
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 730 Tm
+(This\040document\040demonstrates\040PDF\040creation\040for\040demonstration\040purposes\056) Tj
+T*
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1db8e14ed-8a66-499f-b5d5-705cfba9b2bd 12 Tf
+14.4 TL
+ET
+BT
+/F215e06454-38e0-4408-9845-d8cfeedaa9d7 8 Tf
+9.6 TL
+ET
+n
+36 691.2 90 28.8 re
+S
+BT
+1 0 0 1 39.6 702 Tm
+(City) Tj
+T*
+ET
+n
+126 691.2 90 28.8 re
+S
+BT
+1 0 0 1 129.6 702 Tm
+(Description) Tj
+T*
+ET
+n
+216 691.2 90 28.8 re
+S
+BT
+1 0 0 1 219.6 702 Tm
+(Temp\040\050\260C\051) Tj
+T*
+ET
+n
+306 691.2 90 28.8 re
+S
+BT
+1 0 0 1 309.6 702 Tm
+(Humidity\040\050\045\051) Tj
+T*
+ET
+n
+396 691.2 90 28.8 re
+S
+BT
+1 0 0 1 399.6 702 Tm
+(Wind\040\050m\057s\051) Tj
+T*
+ET
+n
+486 691.2 90 28.8 re
+S
+BT
+1 0 0 1 489.6 702 Tm
+(Timestamp) Tj
+T*
+ET
+BT
+/F1db8e14ed-8a66-499f-b5d5-705cfba9b2bd 8 Tf
+9.6 TL
+ET
+n
+36 662.4 90 28.8 re
+S
+BT
+1 0 0 1 39.6 673.2 Tm
+(Bengaluru) Tj
+T*
+ET
+n
+126 662.4 90 28.8 re
+S
+BT
+1 0 0 1 129.6 673.2 Tm
+(Scattered\040cl\056\056\056) Tj
+T*
+ET
+n
+216 662.4 90 28.8 re
+S
+BT
+1 0 0 1 219.6 673.2 Tm
+(29\05614) Tj
+T*
+ET
+n
+306 662.4 90 28.8 re
+S
+BT
+1 0 0 1 309.6 673.2 Tm
+(56) Tj
+T*
+ET
+n
+396 662.4 90 28.8 re
+S
+BT
+1 0 0 1 399.6 673.2 Tm
+(4\0561) Tj
+T*
+ET
+n
+486 662.4 90 28.8 re
+S
+BT
+1 0 0 1 489.6 673.2 Tm
+(2025\05506\05507T0\056\056\056) Tj
+T*
+ET
+BT
+/F1db8e14ed-8a66-499f-b5d5-705cfba9b2bd 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 36 36 Tm
+(Bengaluru\040\174\040Scattered\040clouds\040\174\04029\05614\260C\040\174\040Humidity\072\04056\045\040\174\040Wind\072\0404\0561\040m\057s\040\174\0402025\05506\05507T07\07208\07215Z) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000163 00000 n 
+0000000663 00000 n 
+0000002383 00000 n 
+0000002490 00000 n 
+0000002602 00000 n 
+0000002709 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+2821
+%%EOF
